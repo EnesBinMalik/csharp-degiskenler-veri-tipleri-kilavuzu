@@ -8,8 +8,9 @@
 - Değişken adlandırma kuralları ve etkileşimli doğrulayıcı
 - `DateTime` özellikleri, biçimlendirme ve tarih işlemleri
 - `String` metotları ve örnekleri
-- Tarayıcıda çalışan C# kod ve konsol gösterimleri
+- C# kod örnekleri ve konsol gösterimleri
 - Öğrenilenleri pekiştiren bilgi testi
+- [C# Tip Dönüşümleri Rehberi](tip-donusumleri-rehberi/README.md): implicit/explicit dönüşümler, Parse/TryParse ve etkileşimli görselleştirmeler
 
 ## Teknolojiler
 
@@ -41,6 +42,8 @@ npm run preview
 ```
 
 `npm run lint`, TypeScript denetimini; `npm run build`, üretim derlemesini çalıştırır. `npm run preview`, üretim çıktısını yerel olarak sunar.
+
+Tip dönüşümleri uygulamasını çalıştırmak için `tip-donusumleri-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
