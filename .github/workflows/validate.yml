@@ -1,0 +1,51 @@
+name: Validate projects
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  web:
+    name: Web app / ${{ matrix.project }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        project:
+          - .
+          - csharp-algoritma-odev-1
+          - csharp-array-sinifi-metotlari
+          - csharp-extension-ve-rekursif-metotlar
+          - csharp-metotlar-ve-bellek-simulatoru
+          - csharp-metot-overloading-out-parametreleri
+          - dizi-ve-bellek-laboratuvari
+          - for-loop-break-continue-rehberi
+          - if-else-ternary-laboratuvari
+          - tip-donusumleri-rehberi
+          - try-catch-finally-simulator
+          - while-foreach-rehberi
+    defaults:
+      run:
+        working-directory: ${{ matrix.project }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: ${{ matrix.project }}/package-lock.json
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build
+
+  dotnet:
+    name: C# console app
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+      - run: dotnet build csharp-algoritma-odev-1/Odev1_AlgoritmaSorulari.csproj --nologo
