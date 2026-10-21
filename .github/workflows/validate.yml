@@ -24,9 +24,11 @@ jobs:
           - csharp-extension-ve-rekursif-metotlar
           - csharp-metotlar-ve-bellek-simulatoru
           - csharp-metot-overloading-out-parametreleri
+          - datetime-metotlari-rehberi
           - dizi-ve-bellek-laboratuvari
           - for-loop-break-continue-rehberi
           - if-else-ternary-laboratuvari
+          - javascript-string-metotlari-laboratuvari
           - tip-donusumleri-rehberi
           - try-catch-finally-simulator
           - while-foreach-rehberi

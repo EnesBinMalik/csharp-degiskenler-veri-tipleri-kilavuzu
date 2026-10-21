@@ -23,6 +23,8 @@
 - [C# Metot Overloading ve Out Parametreleri](csharp-metot-overloading-out-parametreleri/README.md): metot imzası, aşırı yükleme, `out`/`ref` ve `TryParse` örnekleri
 - [C# Extension ve Rekürsif Metotlar Rehberi](csharp-extension-ve-rekursif-metotlar/README.md): geleneksel extension metot sözdizimi, rekürsif algoritmalar ve kavramsal çağrı yığını simülatörü
 - [C# Algoritma Ödev 1](csharp-algoritma-odev-1/README.md): çift sayılar, bölünebilme, kelime sıralama ve cümle analizi için etkileşimli rehber ve C# kaynak kodu
+- [DateTime Metotları Rehberi](datetime-metotlari-rehberi/README.md): JavaScript tarih/saat API'leri, zaman dilimleri ve tarih hesaplama laboratuvarı
+- [JavaScript String Metotları Laboratuvarı](javascript-string-metotlari-laboratuvari/README.md): metot kataloğu, karakter inceleyici, zincirleme araçları ve kod alıştırmaları
 
 ## Teknolojiler
 
@@ -78,6 +80,10 @@ C# Metot Overloading ve Out Parametreleri uygulamasını çalıştırmak için `
 C# Extension ve Rekürsif Metotlar Rehberi'ni çalıştırmak için `csharp-extension-ve-rekursif-metotlar` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 C# Algoritma Ödev 1 uygulamasını çalıştırmak için `csharp-algoritma-odev-1` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+DateTime Metotları Rehberi'ni çalıştırmak için `datetime-metotlari-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+JavaScript String Metotları Laboratuvarı'nı çalıştırmak için `javascript-string-metotlari-laboratuvari` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
