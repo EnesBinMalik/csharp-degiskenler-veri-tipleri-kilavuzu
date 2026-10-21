@@ -17,6 +17,7 @@
 - [While ve Foreach Döngüleri Rehberi](while-foreach-rehberi/README.md): `while` ve `foreach` döngüleri, simülasyonlar ve pratik testler
 - [Dizi ve Bellek Laboratuvarı](dizi-ve-bellek-laboratuvari/README.md): C# dizileri, sıfır tabanlı indeksler, bellek kavramları ve dizi algoritmaları
 - [C# Array Sınıfı ve Metotları](csharp-array-sinifi-metotlari/README.md): `Array.Sort`, `Clear`, `Reverse`, `IndexOf`, `Resize`, `BinarySearch` ve `Fill` için etkileşimli Türkçe rehber
+- [C# Metotlar ve Bellek Simülatörü](csharp-metotlar-ve-bellek-simulatoru/README.md): metot söz dizimi, parametre aktarımı, `ref` ve değişken kapsamı için etkileşimli Türkçe simülatör
 
 ## Teknolojiler
 
@@ -62,6 +63,8 @@ While ve Foreach Döngüleri Rehberi'ni çalıştırmak için `while-foreach-reh
 Dizi ve Bellek Laboratuvarı'nı çalıştırmak için `dizi-ve-bellek-laboratuvari` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 C# Array Sınıfı ve Metotları laboratuvarını çalıştırmak için `csharp-array-sinifi-metotlari` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+C# Metotlar ve Bellek Simülatörü'nü çalıştırmak için `csharp-metotlar-ve-bellek-simulatoru` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
