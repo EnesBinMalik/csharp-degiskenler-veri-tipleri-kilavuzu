@@ -18,6 +18,7 @@
 - [Dizi ve Bellek Laboratuvarı](dizi-ve-bellek-laboratuvari/README.md): C# dizileri, sıfır tabanlı indeksler, bellek kavramları ve dizi algoritmaları
 - [C# Array Sınıfı ve Metotları](csharp-array-sinifi-metotlari/README.md): `Array.Sort`, `Clear`, `Reverse`, `IndexOf`, `Resize`, `BinarySearch` ve `Fill` için etkileşimli Türkçe rehber
 - [C# Metotlar ve Bellek Simülatörü](csharp-metotlar-ve-bellek-simulatoru/README.md): metot söz dizimi, parametre aktarımı, `ref` ve değişken kapsamı için etkileşimli Türkçe simülatör
+- [C# Metot Overloading ve Out Parametreleri](csharp-metot-overloading-out-parametreleri/README.md): metot imzası, aşırı yükleme, `out`/`ref` ve `TryParse` örnekleri
 
 ## Teknolojiler
 
@@ -65,6 +66,8 @@ Dizi ve Bellek Laboratuvarı'nı çalıştırmak için `dizi-ve-bellek-laboratuv
 C# Array Sınıfı ve Metotları laboratuvarını çalıştırmak için `csharp-array-sinifi-metotlari` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 C# Metotlar ve Bellek Simülatörü'nü çalıştırmak için `csharp-metotlar-ve-bellek-simulatoru` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+C# Metot Overloading ve Out Parametreleri uygulamasını çalıştırmak için `csharp-metot-overloading-out-parametreleri` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
