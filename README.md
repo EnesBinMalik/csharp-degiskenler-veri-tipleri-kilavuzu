@@ -13,6 +13,7 @@
 - [C# Tip Dönüşümleri Rehberi](tip-donusumleri-rehberi/README.md): implicit/explicit dönüşümler, Parse/TryParse ve etkileşimli görselleştirmeler
 - [Try-Catch-Finally Simülatörü](try-catch-finally-simulator/README.md): istisna akışı, mantıksal hatalar ve kaynak temizleme örnekleri
 - [If-Else ve Ternary Laboratuvarı](if-else-ternary-laboratuvari/README.md): koşullu dallanma, ternary ifadeler ve tarayıcı tabanlı akış simülasyonu
+- [For Döngüsü, Break ve Continue Rehberi](for-loop-break-continue-rehberi/README.md): `for` döngüsü, akış kontrolü ve tarayıcı tabanlı adım simülasyonu
 
 ## Teknolojiler
 
@@ -50,6 +51,8 @@ Tip dönüşümleri uygulamasını çalıştırmak için `tip-donusumleri-rehber
 Try-Catch-Finally simülatörünü çalıştırmak için `try-catch-finally-simulator` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 If-Else ve Ternary Laboratuvarı'nı çalıştırmak için `if-else-ternary-laboratuvari` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+For Döngüsü, Break ve Continue Rehberi'ni çalıştırmak için `for-loop-break-continue-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
