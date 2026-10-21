@@ -11,6 +11,7 @@
 - C# kod örnekleri ve konsol gösterimleri
 - Öğrenilenleri pekiştiren bilgi testi
 - [C# Tip Dönüşümleri Rehberi](tip-donusumleri-rehberi/README.md): implicit/explicit dönüşümler, Parse/TryParse ve etkileşimli görselleştirmeler
+- [Try-Catch-Finally Simülatörü](try-catch-finally-simulator/README.md): istisna akışı, mantıksal hatalar ve kaynak temizleme örnekleri
 
 ## Teknolojiler
 
@@ -44,6 +45,8 @@ npm run preview
 `npm run lint`, TypeScript denetimini; `npm run build`, üretim derlemesini çalıştırır. `npm run preview`, üretim çıktısını yerel olarak sunar.
 
 Tip dönüşümleri uygulamasını çalıştırmak için `tip-donusumleri-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+Try-Catch-Finally simülatörünü çalıştırmak için `try-catch-finally-simulator` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
