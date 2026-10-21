@@ -14,6 +14,7 @@
 - [Try-Catch-Finally Simülatörü](try-catch-finally-simulator/README.md): istisna akışı, mantıksal hatalar ve kaynak temizleme örnekleri
 - [If-Else ve Ternary Laboratuvarı](if-else-ternary-laboratuvari/README.md): koşullu dallanma, ternary ifadeler ve tarayıcı tabanlı akış simülasyonu
 - [For Döngüsü, Break ve Continue Rehberi](for-loop-break-continue-rehberi/README.md): `for` döngüsü, akış kontrolü ve tarayıcı tabanlı adım simülasyonu
+- [While ve Foreach Döngüleri Rehberi](while-foreach-rehberi/README.md): `while` ve `foreach` döngüleri, simülasyonlar ve pratik testler
 
 ## Teknolojiler
 
@@ -53,6 +54,8 @@ Try-Catch-Finally simülatörünü çalıştırmak için `try-catch-finally-simu
 If-Else ve Ternary Laboratuvarı'nı çalıştırmak için `if-else-ternary-laboratuvari` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 For Döngüsü, Break ve Continue Rehberi'ni çalıştırmak için `for-loop-break-continue-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+While ve Foreach Döngüleri Rehberi'ni çalıştırmak için `while-foreach-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
