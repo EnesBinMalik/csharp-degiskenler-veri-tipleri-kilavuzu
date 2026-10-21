@@ -20,6 +20,7 @@ jobs:
         project:
           - .
           - csharp-algoritma-odev-1
+          - csharp-arraylist-rehberi
           - csharp-array-sinifi-metotlari
           - csharp-extension-ve-rekursif-metotlar
           - csharp-metotlar-ve-bellek-simulatoru
