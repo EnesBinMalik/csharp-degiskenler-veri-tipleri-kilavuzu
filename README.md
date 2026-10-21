@@ -15,6 +15,7 @@
 - [If-Else ve Ternary Laboratuvarı](if-else-ternary-laboratuvari/README.md): koşullu dallanma, ternary ifadeler ve tarayıcı tabanlı akış simülasyonu
 - [For Döngüsü, Break ve Continue Rehberi](for-loop-break-continue-rehberi/README.md): `for` döngüsü, akış kontrolü ve tarayıcı tabanlı adım simülasyonu
 - [While ve Foreach Döngüleri Rehberi](while-foreach-rehberi/README.md): `while` ve `foreach` döngüleri, simülasyonlar ve pratik testler
+- [Dizi ve Bellek Laboratuvarı](dizi-ve-bellek-laboratuvari/README.md): C# dizileri, sıfır tabanlı indeksler, bellek kavramları ve dizi algoritmaları
 
 ## Teknolojiler
 
@@ -56,6 +57,8 @@ If-Else ve Ternary Laboratuvarı'nı çalıştırmak için `if-else-ternary-labo
 For Döngüsü, Break ve Continue Rehberi'ni çalıştırmak için `for-loop-break-continue-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 While ve Foreach Döngüleri Rehberi'ni çalıştırmak için `while-foreach-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
+
+Dizi ve Bellek Laboratuvarı'nı çalıştırmak için `dizi-ve-bellek-laboratuvari` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
 ## Teknik doğruluk notu
 
