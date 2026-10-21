@@ -2,6 +2,8 @@
 
 **Enes Öztürk tarafından hazırlanan** Türkçe ve etkileşimli C# eğitim rehberi. Değişken tanımlama, temel veri tipleri, `DateTime` ve `String` kullanımı konularını örnekler, görsel açıklamalar ve kısa sınavlarla anlatır.
 
+[![Proje doğrulamaları](https://github.com/EnesBinMalik/csharp-degiskenler-veri-tipleri-kilavuzu/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/EnesBinMalik/csharp-degiskenler-veri-tipleri-kilavuzu/actions/workflows/validate.yml)
+
 ## İçerik
 
 - Değişkenler ve temel C# türleri için başvuru kataloğu
@@ -52,6 +54,8 @@ npm run preview
 ```
 
 `npm run lint`, TypeScript denetimini; `npm run build`, üretim derlemesini çalıştırır. `npm run preview`, üretim çıktısını yerel olarak sunar.
+
+GitHub Actions, her pull request'te ve `main` dalına yapılan her gönderimde kök uygulama ile bağımsız web projelerinin TypeScript denetimi ve üretim derlemesini, ayrıca C# konsol projesinin derlemesini çalıştırır.
 
 Tip dönüşümleri uygulamasını çalıştırmak için `tip-donusumleri-rehberi` klasörüne geçip aynı komutları o klasörde çalıştırın.
 
